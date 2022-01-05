@@ -8,8 +8,4 @@ class Home extends BaseController
     {
         return view('test_view');
     }
-    // public function index()
-    // {
-    //     return view('test_view');
-    // }
 }
